@@ -54,15 +54,13 @@
   },
   "overrides": {
     "nanoid": "3.3.18",
-    "undici": "8.10.2",
+    "undici": "8.12.2",
     "@babel/core": ">=7.29.6",
     "esbuild": ">=0.28.1",
     "ws": "8.21.0",
     "sharp": "0.35.5",
     "browserslist": "4.28.7",
     "baseline-browser-mapping": "2.11.0"
-    "tar": "7.4.3",
-    "minipass": "7.1.2"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20261001.1",
